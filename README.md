@@ -6,8 +6,6 @@ Add income and expenses with descriptions.
 View transaction history.
 Calculate total income and expenses.
 Save and load transactions from a file.
-Usage:
 
-Compile the code in Dev-C++.
-Run the application.
-Follow the on-screen instructions to add transactions and view your financial summary.
+
+
